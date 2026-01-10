@@ -44,7 +44,7 @@ The code is intended as a **prototype / concept**, not tested on actual hardware
 
 ## Usage
 
-1. Connect hardware as described in [Hardware Setup](/docs/img/wiring_sketch_v1).  
+1. Connect hardware as described in [Hardware Setup](/docs/img/wiring_sketch_v1.jpg).  
 2. Upload `main.py` from either `micropython/` folder to your Pico or `python/` folder to your Pi 5 or older.  
 3. Power the board and press the start button.  
 4. Switch between single and two-player mode using the mode switch.
