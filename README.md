@@ -41,7 +41,7 @@ The code is intended as a **prototype / concept**, not tested on actual hardware
 3. Power the board and press the start button.  
 4. Switch between single and two-player mode using the mode switch.
 
-## Screenshots / Sketches
+## Sketches
 
 ### Wiring Diagram
 
